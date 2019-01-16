@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat Regular'), local('Montserrat-Regular'), url(/http://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Open Sans Regular'), local('OpenSans-Regular'), url(/http://fonts.gstatic.com/s/opensans/v15/mem8YaGs126MiZpBA-UFVZ0e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Roboto Medium'), local('Roboto-Medium'), url(/http://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc9.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 14:50:46 Nov 22, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:25:42 Jan 14, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 49.367 (3)
+  esindex: 0.01
+  captures_list: 73.093
+  CDXLines.iter: 16.964 (3)
+  PetaboxLoader3.datanode: 70.249 (5)
+  exclusion.robots: 0.281
+  exclusion.robots.policy: 0.261
+  RedisCDXSource: 2.223
+  PetaboxLoader3.resolve: 59.105 (2)
+  load_resource: 159.4
+*/
